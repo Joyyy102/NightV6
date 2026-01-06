@@ -2,7 +2,9 @@
   "tokens": [
     "BOT_TOKEN_LU"
   ],
-  "resellers": [],
+  "resellers": [
+    6698713215
+  ],
   "owners": [],
   "pts": [],
   "mods": []
